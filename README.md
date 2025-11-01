@@ -95,5 +95,5 @@ Check the Summary page to see spending charts (category-wise and monthly).
 
 All your data is stored locally in expense.db (SQLite).
 =======
-# dotnet_project_382
+# dotnet_project_282
 >>>>>>> cde3b8c8301e0be74359929008b913f348675266
